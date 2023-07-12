@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on developing an idea for Social Media Application
+- 🌱 I’m currently learning TypeScript
+- 😄 Pronouns: He/Him
+-  ⚡ Fun fact: The Eiffel Tower gets taller in the summer.
 <!--
 **MubashirMian/MubashirMian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
