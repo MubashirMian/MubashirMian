@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on developing an idea for Social Media Application
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning SpringBoot
 - 😄 Pronouns: He/Him
 -  ⚡ Fun fact: The Eiffel Tower gets taller in the summer.
 <!--
